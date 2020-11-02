@@ -2,12 +2,12 @@
 Refactoring the existing code to meet accessibility standards. 
 
 My changes include the following:
--Added semantic HTML elements, such as header, article, aside, footer, and section.
--Added alt attributes to each image and 
--Added title element to the webpage 
--Correct HTML indentation
--Consolidate duplicate CSS elements
--Added appropriate comments to both CSS and HTML
+- Added semantic HTML elements, such as header, article, aside, footer, and section.
+- Added alt attributes to each image and 
+- Added title element to the webpage 
+- Correct HTML indentation
+- Consolidate duplicate CSS elements
+- Added appropriate comments to both CSS and HTML
 
 A link to my project URL via GitHub is available [here](https://lexiehansen.github.io/horiseon_challenge/).
 
