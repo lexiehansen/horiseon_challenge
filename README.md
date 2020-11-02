@@ -5,6 +5,7 @@ My changes include the following:
 - Added semantic HTML elements, such as header, article, aside, footer, and section.
 - Added alt attributes to each image
 - Added title element to the webpage 
+- Ensured links were all functioning
 - Correct HTML indentation
 - Consolidate duplicate CSS elements
 - Added appropriate comments to both CSS and HTML
