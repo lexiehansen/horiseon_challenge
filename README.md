@@ -3,7 +3,7 @@ Refactoring the existing code to meet accessibility standards.
 
 My changes include the following:
 - Added semantic HTML elements, such as header, article, aside, footer, and section.
-- Added alt attributes to each image and 
+- Added alt attributes to each image
 - Added title element to the webpage 
 - Correct HTML indentation
 - Consolidate duplicate CSS elements
