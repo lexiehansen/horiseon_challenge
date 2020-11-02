@@ -6,6 +6,6 @@ My changes include adding semantic HTML elements, adding alt attributes to each 
 A link to my project URL via GitHub is available [here](https://lexiehansen.github.io/horiseon_challenge/).
 
 Here are screenshots of the completed webpage:
-![Screenshot](./horiseon.jpg)
-![Screenshot2](./horiseon2.jpg)
+![image](https://user-images.githubusercontent.com/72775548/97826092-e4337780-1c7d-11eb-893d-631a73019b7b.png)
+![image](https://user-images.githubusercontent.com/72775548/97826112-f1e8fd00-1c7d-11eb-884e-d987860b3f3e.png)
 
